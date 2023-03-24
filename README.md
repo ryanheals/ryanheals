@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Android Applications
 - 📫 How to reach me ...
-- instagrm:ryan.heals
+- instagram: ryan.heals
 - email: ryan.heals@gmail.com
 
 <!---
