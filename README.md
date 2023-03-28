@@ -11,7 +11,7 @@
 - Android Applications
 - 📫 How to reach me ...
 - instagram: ryan.heals
-- email: ryan.heals@gmail.com
+- email: ryan.heals623@gmail.com
 
 <!---
 ryanheals/ryanheals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
